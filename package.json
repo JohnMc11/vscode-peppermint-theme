@@ -2,6 +2,8 @@
     "name": "peppermint",
     "displayName": "peppermint",
     "description": "Inspired by the deepin-terminal peppermint theme",
+    "publisher": "michaelcollins",
+    "repository": {"url": "https://github.com/JohnMc11/vscode-peppermint-theme.git"},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
