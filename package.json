@@ -1,0 +1,21 @@
+{
+    "name": "peppermint",
+    "displayName": "peppermint",
+    "description": "Inspired by the deepin-terminal peppermint theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Peppermint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Peppermint-color-theme.json"
+            }
+        ]
+    }
+}
